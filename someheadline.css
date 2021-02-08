@@ -1,0 +1,12 @@
+h1 {
+  background: linear-gradient(
+    55deg,
+    rgba(128, 0, 128, 1) 0%,
+    rgba(128, 0, 128, 1) 53%,
+    #ffe3e0 53%,
+    #ffe3e0 57%,
+    rgba(128, 0, 128, 1) 57%,
+    rgba(128, 0, 128, 1) 61%,
+    #ffe3e0 61%,
+    #ffe3e0 100%
+  );

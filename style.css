@@ -1,0 +1,20 @@
+body {
+  background: black;
+  color: #ccc;
+  margin: 0;
+}
+
+.hero {
+  height: 400px;
+  background: linear-gradient(white, rgba(0, 0, 0, 0), black),
+    url(/images/sunset-815270_1280.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+main {
+  padding-left: 11%;
+}
+p {
+  font-family: initial;
+}

@@ -1,0 +1,6 @@
+.ball {
+  height: 300px;
+  width: 300px;
+  background: radial-gradient(circle at 63%, white, #777);
+  border-radius: 50%;
+}
